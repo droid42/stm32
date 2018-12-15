@@ -12,15 +12,17 @@ https://www.arduino.cc/en/Guide/Linux
 ## Board Infos
 
 http://wiki.stm32duino.com/index.php?title=Main_Page
+http://wiki.stm32duino.com/index.php?title=Main_Page
 
 ## Connect Board
 
-USB2Serial-Converter --> STM32 (3v3-Mode!)
+USB2Serial-Converter (FT232RL) --> STM32 (3v3-Mode!)
 * GND --> GND
 * TX --> A10
 * RX --> A9
 
-Power STM32 via microUSB
+* Power STM32 via microUSB
+* Connect USB2Serial-Converter to PC
 
 ## Arduino BoardManager
 
@@ -45,7 +47,7 @@ void loop() {
 
 Add LED with resistor to Pin6 (A6) and GND.
 
-## Troubleshooting
+## Troubleshooting (Linux)
 
 ### Upload not possible
 
