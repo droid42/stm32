@@ -25,7 +25,7 @@ Power STM32 via microUSB
 
 ## Sketch
 
------
+~~~~~
 void setup() {
   pinMode(PA6, OUTPUT);
 
@@ -37,6 +37,6 @@ void loop() {
   digitalWrite(PA6, LOW);
   delay(1000);
 }
------
+~~~~~
 
 Add LED with resistor to Pin6 (A6) and GND.
