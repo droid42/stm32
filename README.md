@@ -14,7 +14,7 @@ https://www.arduino.cc/en/Guide/Linux
 http://wiki.stm32duino.com/index.php?title=Main_Page
 http://wiki.stm32duino.com/index.php?title=Main_Page
 
-## Connect Board
+## Connect Board for serial upload
 
 USB2Serial-Converter (FT232RL) --> STM32 (3v3-Mode!)
 * GND --> GND
