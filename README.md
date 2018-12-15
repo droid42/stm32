@@ -40,3 +40,11 @@ void loop() {
 ~~~~~
 
 Add LED with resistor to Pin6 (A6) and GND.
+
+## Troubleshooting
+
+### Upload not possible
+
+* uninstall modemmanager
+* try to use USB2 port on your PC, avoid USB-Hub or USB3-port
+
