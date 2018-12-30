@@ -17,7 +17,8 @@ http://wiki.stm32duino.com/index.php?title=Main_Page
 ## Connect Board for serial upload
 
 USB2Serial-Converter (FT232RL) --> STM32 (3v3-Mode!)
-* GND --> GND
+* GND --> GND 
+* 3V3 --> 3V3 (neighbor of GND) to power the board via converter
 * TX --> A10
 * RX --> A9
 
