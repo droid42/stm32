@@ -1,13 +1,31 @@
-# stm32
+*# stm32
 Experiments with the STM32 Board
 
 ## Overview
 
-https://www.youtube.com/watch?v=EaZuKRSvwdo
+* https://www.youtube.com/watch?v=EaZuKRSvwdo
+* https://www.mikrocontroller.net/articles/STM32_f%C3%BCr_Einsteiger
+* https://predictabledesigns.com/introduction-to-programming-stm32-arm-cortex-m-32-bit-microcontrollers/
+
+## Programmer
+
+* http://www.emcu.eu/stm32-cube-programmer/
+* ST-Link v2 https://www.youtube.com/watch?v=KgR3uM21y7o
 
 ## Setup Arduino-IDE
 
 https://www.arduino.cc/en/Guide/Linux
+
+## IDEs
+
+* https://www.st.com/en/development-tools/stm32-ides.html
+
+## CLion
+
+* https://blog.jetbrains.com/clion/2016/06/clion-for-embedded-development/
+* https://blog.jetbrains.com/clion/2017/12/clion-for-embedded-development-part-ii/
+* https://github.com/nagelkl/clion_embedded
+* https://github.com/michaelniedermayr/clion_stm32_openocd
 
 ## Board Infos
 
