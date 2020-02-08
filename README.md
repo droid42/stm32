@@ -19,6 +19,17 @@
 * http://www.emcu.eu/stm32-cube-programmer/
 * ST-Link v2 https://www.youtube.com/watch?v=KgR3uM21y7o
 
+### Connections
+
+**ATTENTION**: DOUBLE-CHECK YOUR ST-LINK ADAPTER's PINOUT!
+
+| STM32 Blue Pill | ST-LINK V2 |
+|---|---|
+| 3V3 [Red] | 3.3V (Pin 8) |
+| IO   [Orange] | SWDIO   (Pin 2) |
+|CLK   [Brown]  |SWDCLK   (Pin 6) |
+|GND   [Black]  |GND   (Pin 4) |
+
 ## Setup Arduino-IDE
 
 https://www.arduino.cc/en/Guide/Linux
