@@ -1,7 +1,6 @@
-*# stm32
-Experiments with the STM32 Board
+# Experiments with the STM32 Board
 
-![Board](images/STM32_Blue_Pill_top-28fc8c188841823a.jpeg)
+![Board](images/STM32_Blue_Pill_top-28fc8c188841823a.jpg)
 
 ## Overview
 
@@ -34,6 +33,15 @@ https://www.arduino.cc/en/Guide/Linux
 * https://blog.jetbrains.com/clion/2017/12/clion-for-embedded-development-part-ii/
 * https://github.com/nagelkl/clion_embedded
 * https://github.com/michaelniedermayr/clion_stm32_openocd
+
+## tinyGo
+
+* https://tinygo.org/microcontrollers/bluepill/
+
+## Rust
+
+* https://github.com/lupyuen/stm32-blue-pill-rust
+* https://medium.com/coinmonks/coding-the-stm32-blue-pill-with-rust-and-visual-studio-code-b21615d8a20
 
 ## Board Infos
 
