@@ -1,12 +1,19 @@
 *# stm32
 Experiments with the STM32 Board
 
+![Board](images/STM32_Blue_Pill_top-28fc8c188841823a.jpeg)
+
 ## Overview
 
 * https://www.youtube.com/watch?v=KgR3uM21y7o
 * https://www.youtube.com/watch?v=EaZuKRSvwdo
 * https://www.mikrocontroller.net/articles/STM32_f%C3%BCr_Einsteiger
+* https://www.heise.de/developer/artikel/Keine-bittere-Pille-die-Blue-Pill-mit-ARM-Cortex-M3-4009580.html
 * https://predictabledesigns.com/introduction-to-programming-stm32-arm-cortex-m-32-bit-microcontrollers/
+* https://idyl.io/arduino/how-to/program-stm32-blue-pill-stm32f103c8t6/
+
+![Pinout](images/Bluepillpinout-4974006ee90b729a.gif)
+
 
 ## Programmer
 
