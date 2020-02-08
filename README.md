@@ -3,6 +3,7 @@ Experiments with the STM32 Board
 
 ## Overview
 
+* https://www.youtube.com/watch?v=KgR3uM21y7o
 * https://www.youtube.com/watch?v=EaZuKRSvwdo
 * https://www.mikrocontroller.net/articles/STM32_f%C3%BCr_Einsteiger
 * https://predictabledesigns.com/introduction-to-programming-stm32-arm-cortex-m-32-bit-microcontrollers/
