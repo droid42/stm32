@@ -48,6 +48,8 @@ https://www.arduino.cc/en/Guide/Linux
 ## tinyGo
 
 * https://tinygo.org/microcontrollers/bluepill/
+* If error "Error: jtag status contains invalid mode value - communication failure" occurs, see https://github.com/japaric/f3/issues/84 --> hold down Reset-Button while programming
+
 
 ## Rust
 
