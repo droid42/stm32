@@ -14,6 +14,12 @@
 ![Pinout](images/Bluepillpinout-4974006ee90b729a.gif)
 
 
+## Programming/Examples/Pinout
+
+* http://cholla.mmto.org/stm32/
+* https://github.com/trebisky/stm32f103
+* https://github.com/dwelch67/stm32_samples/tree/master/STM32F103C8T6
+
 ## Programmer
 
 * http://www.emcu.eu/stm32-cube-programmer/
@@ -48,6 +54,8 @@ https://www.arduino.cc/en/Guide/Linux
 ## tinyGo
 
 * https://tinygo.org/microcontrollers/bluepill/
+* If error "Error: jtag status contains invalid mode value - communication failure" occurs, see https://github.com/japaric/f3/issues/84 --> hold down Reset-Button while programming
+
 
 ## Rust
 
