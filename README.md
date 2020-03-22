@@ -14,8 +14,9 @@
 ![Pinout](images/Bluepillpinout-4974006ee90b729a.gif)
 
 
-## Programming/Examples
+## Programming/Examples/Pinout
 
+* http://cholla.mmto.org/stm32/
 * https://github.com/trebisky/stm32f103
 * https://github.com/dwelch67/stm32_samples/tree/master/STM32F103C8T6
 
