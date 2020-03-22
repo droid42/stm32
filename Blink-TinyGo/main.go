@@ -13,6 +13,6 @@ func main() {
 		time.Sleep(time.Millisecond * 100)
 
 		led.High()
-		time.Sleep(time.Millisecond * 100)
+		time.Sleep(time.Millisecond * 1000)
 	}
 }
