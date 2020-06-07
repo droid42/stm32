@@ -15,7 +15,7 @@
 
 
 ## Programming/Examples/Pinout
-vv
+
 * http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/latest/index-2.html
 * http://stefanfrings.de/stm32/stm32l0.html
 * http://www.emcu.eu/2017/03/13/how-to-use-stm32-and-arduino-ide/
@@ -30,6 +30,8 @@ vv
 
 * http://www.emcu.eu/stm32-cube-programmer/
 * ST-Link v2 https://www.youtube.com/watch?v=KgR3uM21y7o
+* Windows: you will need ST-Link v2 Driver
+  https://my.st.com/content/my_st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-programmers/stsw-link004.html#get-software
 
 ### Connections
 
