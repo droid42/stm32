@@ -16,6 +16,7 @@
 
 ## Programming/Examples/Pinout
 
+* http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/latest/index-2.html
 * http://cholla.mmto.org/stm32/
 * https://github.com/trebisky/stm32f103
 * https://github.com/dwelch67/stm32_samples/tree/master/STM32F103C8T6
