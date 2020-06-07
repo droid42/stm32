@@ -22,6 +22,7 @@
 * https://www.instructables.com/id/Getting-Started-With-Stm32-Using-Arduino-IDE/
 * https://www.electronics-lab.com/project/programming-stm32-based-boards-arduino-ide/
 * https://www.onetransistor.eu/2017/11/stm32-bluepill-arduino-ide.html
+* https://learnbuildshare.wordpress.com/about/stm32/using-spi-as-master/
 * http://cholla.mmto.org/stm32/
 * https://github.com/trebisky/stm32f103
 * https://github.com/dwelch67/stm32_samples/tree/master/STM32F103C8T6
